@@ -1,0 +1,1 @@
+This is will be my first online web project through The Odin Project. I will be utilizing HTML to create a webpage and demonstrate my skills with this project.
