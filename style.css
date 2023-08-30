@@ -14,13 +14,16 @@ h1.page-title {
 }
 
 #list-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 ol.recipes {
-    
+    text-align: center;
+    list-style: inside;
+}
+
+a {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a:link, a:visited {
