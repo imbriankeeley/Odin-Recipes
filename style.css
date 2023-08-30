@@ -1,0 +1,32 @@
+* {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page-heading {
+    display: flex;
+    justify-content: center;
+}
+
+h1.page-title {
+    font-size: 65px;
+    color: rgb(36, 28, 56);
+}
+
+#list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol.recipes {
+    
+}
+
+a:link, a:visited {
+    color: rgb(36, 28, 56);
+}
+
+a:hover, a:active {
+    color: rgb(177, 161, 219);
+}
