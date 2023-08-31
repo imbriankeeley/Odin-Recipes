@@ -76,6 +76,11 @@ h2.ingredients {
     color: rgb(36, 28, 56);
 }
 
+h3.ingredients {
+    font-size: 17px;
+    color: rgb(36, 28, 56);
+}
+
 li.ingredients {
     font-size: 16px;
     color: rgb(36, 28, 56);
