@@ -40,7 +40,7 @@ h1.page-title {
 .img-container {
     display: inline-block;
     padding: 1rem 1rem;
-    vertical-align: middle;
+   
 }
 
 img {
@@ -49,9 +49,7 @@ img {
 }
 
 #recipe-container {
-    display: inline-block;
     padding: 1rem 1rem;
-    vertical-align: middle;
 }
 
 h2.recipe {
