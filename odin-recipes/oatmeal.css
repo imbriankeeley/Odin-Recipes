@@ -30,3 +30,26 @@ h1.page-title {
     color: rgb(36, 28, 56);
     margin-bottom: 10px;
 }
+
+#beg-container {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.img-container {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+#recipe-container {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
