@@ -32,8 +32,8 @@ h1.page-title {
 }
 
 #beg-container {
-    margin: 1rem;
-    padding: 2rem 2rem;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ p.recipe {
 
 #ingredients-container {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     padding: 50px;
 }
 
@@ -88,7 +88,7 @@ li.ingredients {
 
 #instructions-container {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     padding: 50px;
 }
 
